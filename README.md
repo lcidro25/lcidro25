@@ -1,6 +1,6 @@
 # ❄️ Luis Cidro
 
-**`Curious Developer(Full Stack Developer)`**
+**`Curious Cat Tamer (Full Stack Developer)`**
 
 I'm a Computer Science Student that loves to absorb technology-related things and apply it with my skills and repertoire. My interests are leaning to both Front and Back End Development, while my enjoyment and creativity goes to design. It's great meeting you! 
 
