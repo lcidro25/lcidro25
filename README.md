@@ -5,7 +5,7 @@
 I'm a Computer Science Student that loves to absorb technology-related things and apply it with my skills and repertoire. My interests are leaning to both Front and Back End Development, while my enjoyment and creativity goes to design. It's great meeting you! 
 
  <a href="https://github.com/lcidro25?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lcidro25?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ---
 
